@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b7b0048-d973-4053-9faf-242c19c19e49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter03_2/Ex3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MasterBackendJava/java-chess" />
   </component>
   <component name="RunManager" selected="Application.Ex3_2">
     <configuration name="Ex3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -63,17 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Ex3_2" />
@@ -93,6 +82,8 @@
       <workItem from="1613643718584" duration="41000" />
       <workItem from="1613653040380" duration="24000" />
       <workItem from="1613996029907" duration="2761000" />
+      <workItem from="1614034531764" duration="354000" />
+      <workItem from="1614034949300" duration="38000" />
     </task>
     <servers />
   </component>
